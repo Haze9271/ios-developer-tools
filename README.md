@@ -28,6 +28,7 @@
 - [medium](https://medium.com/ios-os-x-development) Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers.
 - [quicktype](https://app.quicktype.io/) Parse JSON in swift
+- [getuniversal.link](https://getuniversal.link/) Universal link testing tool
 
 ### Apple
 
@@ -70,6 +71,7 @@
 	- [Crashlytics](https://firebase.google.com/docs/crashlytics/) Spend less time troubleshooting & more time building great apps. 
 - [Parse](https://parseplatform.org/) Build applications faster with object and file storage,
 user authentication, push notifications, dashboard and more out of the box.
+- [DronaHQ](https://www.dronahq.com/) Build custom apps, dashboards, internal tools at 10x speed without coding and roll out quickly on iOS.
 
 
 ## Command Line Tool
@@ -136,6 +138,8 @@ to be accessed and controlled from a single terminal.
 - [XCLogParser](https://github.com/spotify/XCLogParser) Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
 - [beyond compare](https://www.scootersoftware.com/download.php) Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not.  Merge changes, synchronize files, and generate reports.
 - [restore-symbol](https://github.com/tobefuturer/restore-symbol) A reverse engineering tool to restore stripped symbol table for iOS app.
+- [LogDog](https://log.dog) LogDog is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them.
+- [DebugSwift](https://github.com/DebugSwift/DebugSwift) DebugSwift provides a set of powerful features to make your debugging experience more efficient.
 
 ### Memory 
 
@@ -154,7 +158,7 @@ to be accessed and controlled from a single terminal.
 - [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) Scanning project does not use images in tool, delete without reference images to reduce the packaging volume
 - [FengNiao](https://github.com/onevcat/FengNiao) A command line tool for cleaning unused resources in Xcode.
 - [IBAnalyzer](https://github.com/fastred/IBAnalyzer) Find common xib and storyboard-related problems without running your app or writing unit tests.
-- [Simian](http://www.harukizaemon.com/simian/index.html) Similarity Analyser
+- [Simian Similarity Analyzer](https://simian.quandarypeak.com) Simian identifies duplication in source code. It can analyze any human readable file, vintage and modern.
 - [cartool](https://github.com/steventroughtonsmith/cartool) Export images from OS X / iOS .car CoreUI archives
 - [XcodeZombieCode](https://github.com/kangwang1988/XcodeZombieCode) A source-code level/Clang Approach
 - [Faux Pas](http://fauxpasapp.com/) Find errors in your iOS or Mac project(Not free)
@@ -228,8 +232,10 @@ to be accessed and controlled from a single terminal.
 
 ## Localization
 
+- [App Doodler](https://doodler.copymyui.com/) - Free, open-source generator for localized App Store screenshot sets with reusable layouts and translation imports.
 - [Localazy](https://localazy.com) - Developer-friendly localization tool for iOS and macOS apps supporting .strings, .stringsdict, .plist and XLIFF files.
 - [Loca Studio](https://www.cunningo.com/locastudio/index.html) Analyze, review, and edit your app translations. Can directly open the Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats.
+- [RemafoX: Easy App Localization](https://remafox.app/?ref=github.com) Add (pluralized) translations without leaving Swift code, Machine Translation to 150+ languages, Linting & Normalizing Strings(dict) files & more.
 
 ## Reverse engineering
 
@@ -309,6 +315,7 @@ to be accessed and controlled from a single terminal.
 - [Source Tree](http://www.sourcetreeapp.com/) Harness the power of Git and Hg in a beautifully simple application
 - [gitkraken](https://www.gitkraken.com/) The legendary Git GUI client for Windows, Mac and Linux
 - [PaintCode](https://www.paintcodeapp.com/) Turn drawings into code.
+- [Lumox](https://lumox.app) - QuickTime Alternative: Create stunning product demos and tutorials for your mobile apps.
 - [reflector](http://www.airsquirrels.com/reflector/) wireless mirroring and streaming receiver 
 - [Sketch](https://www.sketchapp.com/) Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 - [Haiku](https://www.haiku.ai/) Design components that snap into any codebase
