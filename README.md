@@ -138,7 +138,7 @@ to be accessed and controlled from a single terminal.
 - [XCLogParser](https://github.com/spotify/XCLogParser) Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
 - [beyond compare](https://www.scootersoftware.com/download.php) Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not.  Merge changes, synchronize files, and generate reports.
 - [restore-symbol](https://github.com/tobefuturer/restore-symbol) A reverse engineering tool to restore stripped symbol table for iOS app.
-- [LogDog](https://log.dog) LogDog is a remote debugging/logging SDK (iOS and Android) with a web UI. Captures all logs and requests in real time and allows you to intercept them.
+- [LogDog](https://log.dog) LogDog is a remote debugging and logging SDK for iOS and Android with a web UI that captures logs and requests in real time and lets you intercept requests.
 - [DebugSwift](https://github.com/DebugSwift/DebugSwift) DebugSwift provides a set of powerful features to make your debugging experience more efficient.
 
 ### Memory 
